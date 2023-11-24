@@ -5,7 +5,6 @@ Este respositório contém:
 (1) Um script Python (contador.py);
 (2) Uma pasta com processos judiciais;
 (3) Um arquivo intitulado "frequencias.xlsx".
-(4) Um arquivo intitulado "frequencias_2977.xlsx".
 
 Vou explicá-los um a um:
 
