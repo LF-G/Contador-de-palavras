@@ -1,5 +1,5 @@
 # Contador-de-palavras
-Contador de frequência de palavras em processos jurídicos.
+Contador de frequência de palavras/expressões em processos jurídicos.
 
 Este respositório contém:
 (1) Um script Python (contador.py);
